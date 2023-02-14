@@ -110,8 +110,8 @@ nav li {
     /* Allow menu options to flow across the page and wrap */
     display: inline-block;
 
-    background-color: #000000;
-    border: 1px solid #fff;
+    background-color: #6495ED;
+    border: 1px solid #000000;
     padding: 0.5rem;
 }
 

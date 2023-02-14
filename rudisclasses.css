@@ -44,7 +44,9 @@ footer {
 main {
     display: grid;
     grid-gap: 1rem;
-
+justify-content: center;
+  align-content: center;
+  text-align: center;
     /* Three evenly spaced columns */
     grid-template-columns: 1fr 1fr;
 }
